@@ -2,6 +2,8 @@
 
 ![Home UI](screenshots/home.png)
 
+
+
 ## 📌 Overview
 
 MIND BOOST is a **frontend (UI-only) web application** that simulates an online course platform.  
@@ -58,25 +60,6 @@ This project focuses on **UI/UX design, layout structuring, and responsive web d
 
 ---
 
-## 📂 Project Structure
-
-MIND-BOOST/
-│
-├── index.html          # Login Page
-├── register.html       # Registration Page
-├── home.html           # Main Landing Page
-├── courses.html        # Courses Page
-├── profile.html        # User Profile Page
-│
-├── screenshots/        # UI screenshots for README
-│
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   └── vendors/
-
----
 
 ## ▶️ How to Run
 
